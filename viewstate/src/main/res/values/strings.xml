@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">viewState</string>
+    <string name="str_state_loading">数据加载中…</string>
+    <string name="str_state_error">数据加载错误，请点击重试…</string>
+    <string name="str_state_empty">数据为空</string>
+
+</resources>

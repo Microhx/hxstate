@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="HxStateView">
+        <attr name="hx_loading_layout_id" format="reference"/>
+        <attr name="hx_empty_layout_id" format="reference"/>
+        <attr name="hx_error_layout_id" format="reference"/>
+    </declare-styleable>
+
+</resources>
